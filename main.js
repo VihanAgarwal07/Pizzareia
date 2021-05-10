@@ -41,4 +41,5 @@ function addtop(){
 //Complete the code
 var topping_name = document.getElementById("add_item").value;
 menu_list_array.push(topping_name);
+  add_item();
 }
